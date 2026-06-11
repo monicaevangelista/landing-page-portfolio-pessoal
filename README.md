@@ -23,8 +23,11 @@ A página apresenta informações profissionais, habilidades e projetos de forma
 
 ## 👩‍💻 Sobre a autora
 
-Meu nome é **Monica Evangelista** e sou estudante de **Análise e Desenvolvimento de Sistemas (ADS) na UniCesumar**. Tenho grande interesse por desenvolvimento web, tecnologia e aprendizado contínuo, buscando transformar conhecimento em projetos práticos e construir um portfólio sólido na área de tecnologia.
+**Monica Evangelista**
 
+Estudante de Análise e Desenvolvimento de Sistemas (ADS) | Desenvolvedora Front-end em formação.
+
+Tenho interesse em desenvolvimento web, tecnologia e aprendizado contínuo, buscando aplicar meus conhecimentos na criação de soluções digitais e na construção de um portfólio profissional.
 ---
 
 ## 🚀 Tecnologias utilizadas
