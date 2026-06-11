@@ -2,6 +2,11 @@
 
 Uma Landing Page desenvolvida com **HTML5** e **CSS3** como atividade da disciplina de **Front-end** do curso de **Análise e Desenvolvimento de Sistemas (ADS) da UniCesumar**.
 
+🌐 Acesse o projeto
+
+GitHub Pages:
+https://monicaevangelista.github.io/landing-page-portfolio-pessoal/
+
 ## 📷 Preview do Projeto
 
 ![Preview da Landing Page](preview.png)
